@@ -1,5 +1,7 @@
 # Blockchain Model Implementation
 
+### Welcome to 'hackmecoin' !
+
 ### This is a simple model written in JavaScript that explains the functionality of blockchain. This is not related to cryptocurrency.
 
 ### Reading code to understand something is really boring, so here is the front-end visualising the code written here.
